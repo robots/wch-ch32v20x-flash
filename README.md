@@ -10,4 +10,4 @@ sfdp parser from: https://raw.githubusercontent.com/petris/sfdp-parser/master/sf
 
 
 More here:
-https://michaldemin.wordpress.com/2023/05/06/wch-ch32v20x-30x-risc-v-flash-memory/
+[https://michaldemin.wordpress.com/2023/05/06/wch-ch32v20x-30x-risc-v-flash-memory/](https://michaldemin.wordpress.com/2023/09/27/wch-ch32v20x-30x-risc-v-flash-memory/)https://michaldemin.wordpress.com/2023/09/27/wch-ch32v20x-30x-risc-v-flash-memory/
